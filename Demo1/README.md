@@ -1,23 +1,21 @@
-# busca-vue-fuse
-
-Tutoria/artigo do projeto: [Aqui no medium](https://medium.com/@claudioluiz.castro/vue-js-fuse-js-criando-uma-aplica%C3%A7%C3%A3o-de-busca-simples-e-perform%C3%A1tica-c4518461f75d)
+# Search app using vue+fuse.js
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+npm run build
 ```
 
 ### Lints and fixes files
 ```
-yarn run lint
+npm run lint
 ```
